@@ -1,0 +1,7 @@
+
+Activate virtual python environment:
+.\venv\Scripts\activate
+
+Test available GPUs on system:
+print("Num GPUs Available: ", len(tf.config.list_physical_devices('GPU')))
+(used for checking GPU connection for environments outside of Google Colab)

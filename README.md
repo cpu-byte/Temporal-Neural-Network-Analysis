@@ -20,8 +20,8 @@ Dissertation submission for Project module while studying Computer Science for s
         </a>
       </th>
       <th>
-        <a href="https://downgit.github.io/#/home?url=https://github.com/dropcmd/Temporal-Neural-Network-Analysis/tree/master/implementation">
-          Download Implementation 🤖
+        <a href="https://downgit.github.io/#/home?url=https://github.com/dropcmd/Temporal-Neural-Network-Analysis/tree/master/artefact">
+          Download Artefact 🎯
         </a>
       </th>
       <th>

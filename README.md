@@ -6,34 +6,21 @@ Dissertation submission for Project module while studying Computer Science for s
   <img width="850" src="https://user-images.githubusercontent.com/26774196/122645811-309bcc80-d114-11eb-8c2d-c3c2b49147af.png">
 </p>
 
-  
 <p align="center">
   <table align="center">
     <tr>
       <th>
         <a href="docs/dissertation.pdf">
-          Download
-          <br>
-          Report 📃
+          Download Report 📃
         </a>
       </th>
       <th>
         <a href="docs/poster.pdf">
-          Download
-          <br>
-          Poster 📊
+          Download Poster 📊
         </a>
       </th>
   </table>
 </p>
-
-<!-- | <img height="80" src="https://user-images.githubusercontent.com/26774196/122680949-c5242e80-d1e9-11eb-8301-ec8017d6076a.png"> |yes| 
-|:--:|:--:| 
-| *Space* | *Space* | -->
-
-<!-- <img align="right" height="100" src="https://user-images.githubusercontent.com/26774196/122680949-c5242e80-d1e9-11eb-8301-ec8017d6076a.png"> -->
-
-
 
 ## Abstract
 

@@ -1,6 +1,6 @@
 # Analysis of Temporal Network Architectures for Phase Detection
 
-Dissertation submission for Project module while studying Computer Science for second semester of academic year 2020–2021. The artefact is split into three stages as can be seen from the figure below.
+Dissertation submission for Project module while studying BSc Computer Science for second semester of academic year 2020–2021 at University of West London. The artefact is split into three stages as can be seen from the figure below.
 
 <p align="center">
   <img width="850" src="https://user-images.githubusercontent.com/26774196/122645811-309bcc80-d114-11eb-8c2d-c3c2b49147af.png">

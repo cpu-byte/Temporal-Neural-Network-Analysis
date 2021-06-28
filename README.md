@@ -10,17 +10,29 @@ Dissertation submission for Project module while studying Computer Science for s
   <table align="center">
     <tr>
       <th>
-        <a href="docs/dissertation.pdf">
+        <a href="https://github.com/dropcmd/Temporal-Neural-Network-Analysis/raw/master/docs/dissertation.pdf">
           Download Report 📃
         </a>
       </th>
       <th>
-        <a href="docs/poster.pdf">
+        <a href="https://github.com/dropcmd/Temporal-Neural-Network-Analysis/raw/master/docs/poster.pdf">
           Download Poster 📊
+        </a>
+      </th>
+      <th>
+        <a href="https://downgit.github.io/#/home?url=https://github.com/dropcmd/Temporal-Neural-Network-Analysis/tree/master/implementation">
+          Download Implementation 🤖
+        </a>
+      </th>
+      <th>
+        <a href="https://github.com/dropcmd/Temporal-Neural-Network-Analysis/archive/refs/heads/master.zip">
+          Download All 📦
         </a>
       </th>
   </table>
 </p>
+
+
 
 ## Abstract
 

@@ -10,11 +10,6 @@ Dissertation submission for Project module while studying BSc Computer Science f
   <table align="center">
     <tr>
       <th>
-        <a href="https://github.com/dropcmd/Temporal-Neural-Network-Analysis/raw/master/docs/dissertation.pdf">
-          Download Report 📃
-        </a>
-      </th>
-      <th>
         <a href="https://github.com/dropcmd/Temporal-Neural-Network-Analysis/raw/master/docs/poster.pdf">
           Download Poster 📊
         </a>
